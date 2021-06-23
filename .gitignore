@@ -1,0 +1,16 @@
+
+*.xml
+*.class
+out/production/LA3/router/checksum.sha256
+out/production/LA3/router/checksum.md5
+out/production/LA3/router/linux/router_x86
+out/production/LA3/router/linux/router_x86
+out/production/LA3/router/macos/router
+out/production/LA3/router/windows/router_x64.exe
+out/production/LA3/router/README.txt
+out/production/LA3/router/windows/router_x86.exe
+src/router/windows/router.log
+out/production/LA3/router/linux/router_x64
+out/production/LA3/router/source/router.go
+out/production/LA3/router/windows/router.log
+*.xml
